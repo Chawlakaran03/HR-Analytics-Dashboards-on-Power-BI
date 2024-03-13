@@ -17,10 +17,9 @@ The dashboard is powered by a dataset containing relevant employee information, 
 
 To run the dashboard locally, follow these steps:
 
-1. Clone the repository:
+1. Clone the repository:https://github.com/Chawlakaran03/HR-Analytics-Dashboards-on-Power-BI/blob/main/HR%20(1).pbix
 2. Install the required dependencies: MS Power BI application
-3. Run the application: [provide instructions on how to start the dashboard]
-
+3. Run the application
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
